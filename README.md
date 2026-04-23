@@ -69,6 +69,3 @@ This project is a proof-of-concept demonstration. Key limitations:
 - **Binary classification**: Only benign vs malignant (not multi-class)
 
 Despite these limitations, the implementation demonstrates core federated learning competencies: FedAvg aggregation, non-IID data partitioning, client-server architecture, and reproducible experimentation.
-
-# Author
-Project completed as part of portfolio for graduate programs applications in federated learning and health AI.
